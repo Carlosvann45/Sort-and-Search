@@ -3,7 +3,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#sort-and-search">About The Project</a>
+      <a href="#sort-and-search">Sort and Search</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
