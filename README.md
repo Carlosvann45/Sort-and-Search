@@ -1,3 +1,25 @@
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#sort-and-search">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
 # Sort-and-Search
 This is a small application I built that uses multiple sorting/searching algorithems aswell as file input and output. I learned how to use the bubble sort, merge sort, and binary search algorithems aswell as proper usage of files in an application. This helped me butter understand recersion and how each algorithem worked underneath the code.
 
