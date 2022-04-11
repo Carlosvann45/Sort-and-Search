@@ -21,7 +21,7 @@
 </details>
 
 # Sort-and-Search
-This is a small application I built that uses multiple sorting/searching algorithems aswell as file input and output. I learned how to use the bubble sort, merge sort, and binary search algorithems aswell as proper usage of files in an application. This helped me butter understand recersion and how each algorithem worked underneath the code.
+This is a small application I built that uses multiple sorting/searching algorithms aswell as file input and output. I learned how to use the bubble sort, merge sort, and binary search algorithms aswell as proper usage of files in an application. This helped me butter understand recersion and how each algorithms worked underneath the code.
 
 ### Built With
 - [C# .NET framework](https://docs.microsoft.com/en-us/dotnet/framework/)
